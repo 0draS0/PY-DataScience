@@ -12,7 +12,7 @@ _Repositorio de notebooks con notas sobre las principales herramientas y funcion
   - Contenido en español.
   - Notas personales obtenidas de diversos cursos.
   - Organizadas por semanas.
-  - Notebooks ejecutados, puedes reiniciarlos en tu ordenador para comprobar los resultados de los <b>ejemplos</b>ejemplos que incluye
+  - Notebooks ejecutados, puedes reiniciarlos en tu ordenador para comprobar los resultados de los <b>ejemplos</b> que incluye.
 
 ## LICENCIA
 Te agradecería mucho si:
