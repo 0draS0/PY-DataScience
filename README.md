@@ -16,15 +16,41 @@ _Notebooks repository with notes compiled from different courses about the main 
 
 ### Tecnologías aplicadas - Technologies involved 🛠
 <div>
-<img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter"/> <img src="https://img.shields.io/badge/Made%20with-Python_3-14354C?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/Made%20with-Pandas-14354C?style=for-the-badge&logo=pandas" />
+<img src="https://img.shields.io/badge/Jupyter_Notebook-FA7343?style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-239120?style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
 
 ### Notas importantes - Important notes ⚠
 <ul>
-    <li>El contenido de cada Notebook se encuentra en Español(MX) - The content is in Spanish (MX). </li>
-    <li>Es una recopilación de notas a nivel personal, obenidas de diversos cursos - It's a compilation of personal notes, obtained from different courses. </li>
-    <li> El conenido de los Notebooks se encuentra <i>ejecutado</i>, puedes reiniciarlos en tu ordenador para comprobar los resultados de los <b>ejemplos</b> -  The content of the Notebooks is <i>running</i>, you can restart them on your computer to check the results of the <b>examples</b>. </li>
+    <li>El contenido de cada Notebook se encuentra en Español(MX).</li>
+        <ul>
+            <li>The content is in Spanish (MX).</li>
+        </ul>
+    <li>Es una recopilación de notas a nivel personal, obenidas de diversos cursos. </li>
+        <ul>
+            <li>It's a compilation of personal notes, obtained from different courses.</li>
+        </ul>
+    <li> El conenido de los Notebooks se encuentra <i>ejecutado</i>, puedes reiniciarlos en tu ordenador para comprobar los resultados de los <b>ejemplos</b>. </li>
+        <ul>
+            <li>The content of the Notebooks is <i>running</i>, you can restart them on your computer to check the results of the <b>examples</b>.</li>
+        </ul>
 </ul>
 
 ### Implementación - Execution ▶💻
+#### Prerequisitos - Prerequisites ✔
+ * Jupyter Notebook con Python 3.
+     * Desde distribución Anaconda (Anaconda Navigator).
+         * From Anaconda Navigator distribution.
+     * Desde su versión web o instalación del programa.
+         * From its web version or program installation.
+
+#### Visualización - Display 📖
+1. Descarga el cuaderno de tu interés desde Github. Guarda dentro de una carpeta de fácil acceso, te recomiendo que sea en tu Escritorio.
+    * Download the notebook of your interest from Github. Save it in an easily accessible folder, I recommend you to save it in your Desktop.
+2. Inicia Jupyter con tu navegador habitual. Tendrás la siguiente presentación.
+    * Start Jupyter with your usual browser.You will get the following presentation.
+    <img src="https://github.com/0draS0/PY-DataScience/blob/main/gallery/1.InicioJupy.png">
+3. Localiza la carpeta contenedora del cuaderno (por recomendación previa, encontrarás tu carpeta contenedora en Desktop).
+    * Locate the folder containing the notebook (for previous recommendation, you will find the folder containing the notebook in Desktop).
+4. Abre el cuaderno con un doble click sobre él. ¡Lo lograste! Puedes interactuar con su contenido.
+    * Open the notebook by double clicking on it, you did it! You can interact with its content.
